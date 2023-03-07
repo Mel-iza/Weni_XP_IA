@@ -4,7 +4,7 @@
 
 -----------------------------------
 
-<div align="right">
+<div align="left">
 
 <h3>Hands-on sobre <b>Inteligência Artificial</b> do Weni XP <br></h3>
 <h4><b>Como criar uma inteligência artificial do zero?</b></h4>
@@ -33,5 +33,12 @@ Para o hands-on vamos utilizar o notebook `'weni_xp_hands-on_ia.ipynb'` localiza
 
 -----------------------------------
 
-* [Apresentação](https://docs.google.com/presentation/d/1qaBtTTRY2xFff96Zldo6PVIXeqS96lewxSEAIcHRczQ/edit?usp=sharing)
 
+<h3> Referências </h3>
+
+* [Apresentação](https://docs.google.com/presentation/d/1AalhlibPBAWG9CO8UyNNeS2xcSkeBTXFNbWnUKhRUds/edit?usp=sharing) 
+* [Tutorial do Google Colab]() 
+
+
+-----------------------------------
+<h3> Materiais complementares e indicações </h3>
