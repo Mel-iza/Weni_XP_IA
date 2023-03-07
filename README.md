@@ -21,6 +21,9 @@ Vamos aprender todo o processo da construção de um modelo, <b>desde a coleta e
 
 Acalma o coração que logo logo vamos <b>discutir</b> sobre isso e <b>descobrir!</b> <br>
 Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
+  
+[Weni XP 2023](https://doity.com.br/weni-xp)
+ 
 </div>
 
 -----------------------------------
