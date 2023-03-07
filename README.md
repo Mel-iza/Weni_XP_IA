@@ -28,11 +28,21 @@ Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
 
 -----------------------------------
 <h3> Instruções </h3>
-Para o hands-on vamos utilizar o notebook `'weni_xp_hands-on_ia.ipynb'` localizado na pasta 'notebook' desse repositório. <br>
 
-1. Na estrutura de pastas do repositório, abra a pasta 'notebook'.
+Para o hands-on vamos utilizar um notebook do Google Colab. É só clicar no botão <b>'Open in Colab'</b> e você será automaticamente redirecionado para a página. Clique aqui -> `'weni_xp_hands-on_ia.ipynb'`. <br>
+
+Caso, não dê certo, siga os passos abaixo: <br>
+
+1. Assim que você entra no repositório, encontra essa estrutura de pastas bem na parte superior da página.
+Abra a pasta 'notebook'.
+<img src= "https://user-images.githubusercontent.com/72058182/223466102-84247f2c-c044-463e-9495-ce647ca11913.png" height="300px">
+
 2. Clique no arquivo `'weni_xp_hands-on_ia.ipynb'`
+<img src= "https://user-images.githubusercontent.com/72058182/223466412-cba95cd7-6689-4fa2-a95a-cb13b49e0a0a.png" height="220px">
+
 3. Clique no botão 'Open in colab'
+<img src= "https://user-images.githubusercontent.com/72058182/223466534-21be097f-dbc0-41dd-97c8-d301fc61689a.png" height="220px">
+
 
 -----------------------------------
 
