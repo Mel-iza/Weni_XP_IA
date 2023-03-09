@@ -66,7 +66,7 @@ Para o hands-on vamos utilizar um notebook do Google Colab. <br>
 
 2. Assim que abrir o notebook clique na barra de tarefas em `arquivo` e `salvar uma cópia no drive` para que você possa fazer alterações.
 
-<img src= "https://user-images.githubusercontent.com/72058182/224060105-7147bd3e-81ce-4dc9-8c16-be0b38d87a28.png" width="300px" height='100%'>
+<img src= "https://user-images.githubusercontent.com/72058182/224063251-b1a5bb51-50fc-47d8-8dd1-978b6328e886.png" width="330px" height='100%'>
 
 
 
