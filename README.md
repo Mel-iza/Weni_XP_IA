@@ -27,11 +27,51 @@ Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
 </div>
 
 -----------------------------------
+
+<h3> Pré-requisitos </h3>
+
+<dl>
+<dt>Básicos</dt>
+
+<dd>
+
+- Possuir uma conta no Google</dd>
+<dd>
+
+- Possuir acesso à internet</dd>
+
+<dt>Extra</dt>
+
+<dd> 
+
+- Conferir material de [introdução ao Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) 
+
+</dd>
+
+<dd>
+
+- Conferir vídeo sobre [Primeiros passos usando o notebook do Google Colab | Escola de Dados](https://www.youtube.com/watch?v=5ovFBTEDMmw)
+
+</dd>
+
+</dl>
+
+
+----------------------------------
 <h3> Instruções </h3>
 
-Para o hands-on vamos utilizar um notebook do Google Colab. <br>É só [clicar aqui](https://colab.research.google.com/gist/Mel-iza/61c8a003129f19ac73243aa48e5237fc/weni_xp_hands-on_ia.ipynb) e você será automaticamente redirecionado para a página. <br>  <br>
+Para o hands-on vamos utilizar um notebook do Google Colab. <br>
 
-Caso, não dê certo, pode seguir os passos abaixo: <br>
+1. [Clique aqui](https://colab.research.google.com/gist/Mel-iza/61c8a003129f19ac73243aa48e5237fc/weni_xp_hands-on_ia.ipynb) para abrir o notebook no Colab. <br> <i>Você será automaticamente redirecionado para a página.</i> <br>
+
+2. Assim que abrir o notebook clique na barra de tarefas em `arquivo` e `salvar uma cópia no drive` para que você possa fazer alterações.
+
+<img src= "https://user-images.githubusercontent.com/72058182/224060105-7147bd3e-81ce-4dc9-8c16-be0b38d87a28.png" width="300px" height='100%'>
+
+
+
+
+Caso, não dê certo, você pode seguir um dos passos abaixo: <br>
 
 
 <details> <summary> <b>Solução 1:</b> Abrindo colab direto pelo notebook  </summary> <br>
