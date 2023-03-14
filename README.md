@@ -100,10 +100,9 @@ Abra a pasta 'notebook'.
 
 <h3> Referências </h3>
 
-* [Apresentação formato novo](https://docs.google.com/presentation/d/1AalhlibPBAWG9CO8UyNNeS2xcSkeBTXFNbWnUKhRUds/edit?usp=sharing)
-* [Apresentação formato antigo](https://docs.google.com/presentation/d/1qaBtTTRY2xFff96Zldo6PVIXeqS96lewxSEAIcHRczQ/edit#slide=id.gf45ce3d692_2_177)  
-* [Tutorial do Google Colab]() 
+* [Apresentação](https://docs.google.com/presentation/d/1-SoIrMRmNN76gGWA2T8khZAEnf_CDZT0SR32IkPcJec/edit?usp=sharing)
 * [Tutorial em vídeo se der tudo errado]() 
+
 
 -----------------------------------
 <h3> Materiais complementares e indicações </h3>
