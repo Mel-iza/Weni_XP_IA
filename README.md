@@ -101,8 +101,8 @@ Abra a pasta 'notebook'.
 <h3> Referências </h3>
 
 * [Apresentação](https://docs.google.com/presentation/d/1-SoIrMRmNN76gGWA2T8khZAEnf_CDZT0SR32IkPcJec/edit?usp=sharing)
-* [Tutorial em vídeo se der tudo errado]() 
+* [Dataset](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=sharing) 
 
 
 -----------------------------------
-<h3> Materiais complementares e indicações </h3>
+
