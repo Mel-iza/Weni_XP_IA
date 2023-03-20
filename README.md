@@ -63,7 +63,7 @@ Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
 
 Para o hands-on vamos utilizar um notebook do Google Colab. <br>
 
-1. [Clique aqui]() para abrir o notebook no Colab. <br> <i>Você será automaticamente redirecionado para a página.</i> <br>
+1. [Clique aqui](https://colab.research.google.com/gist/Mel-iza/61c8a003129f19ac73243aa48e5237fc/weni_xp_hands-on_ia.ipynb) para abrir o notebook no Colab. <br> <i>Você será automaticamente redirecionado para a página.</i> <br>
 
 2. Assim que abrir o notebook clique na barra de tarefas em `arquivo` e `salvar uma cópia no drive` para que você possa fazer alterações.
 
@@ -91,6 +91,16 @@ Abra a pasta 'notebook'.
 
 
 <details> <summary> <b>Solução 2:</b> Abrindo arquivo direto pelo colab em upload  </summary> <br>
+1. Abra o link do notebook do Colab no passo 1 descrito em instruções. <br>
+
+2. Clique na barra de tarefas do Colab na opção `Arquivo`, em seguida clique em `Fazer Download` e escolha a opção `Fazer download do .ipynb`
+<img src= "https://user-images.githubusercontent.com/72058182/226446218-45fb8b29-4577-4884-b5b5-064d85d94433.png" height="220px">
+
+3. Assim que fizer o downlaod do arquivo, entre em no Colab pela sua conta do google.
+
+4. Agora vamos abrir o arquivo que acabou de ser baixado: clique na barra de tarefas na opção `arquivo`, depois em `abrir notebook` e selecione o `weni_xp_hands-on_ia.ipynb` que está em seu computador.
+<img src= "https://user-images.githubusercontent.com/72058182/226447069-f082e9a2-4927-4dd4-96ba-1ec14e977184.png" height="220px">
+
 
 
 </details>
