@@ -111,7 +111,7 @@ Os arquivos utilizados estão disponíveis nesse repositório na pasta `data` e 
 
 -----------------------------------
 
-<h3> Referências </h3>
+
 
 
 
