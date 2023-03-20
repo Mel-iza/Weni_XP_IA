@@ -98,10 +98,16 @@ Abra a pasta 'notebook'.
 -----------------------------------
 
 
-<h3> Referências </h3>
+<h3> Arquivos utilizados </h3> <br>
 
-* [Dataset](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=sharing) 
+
+Os arquivos utilizados estão disponíveis nesse repositório na pasta `data` e também [nessa pasta](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=share_link) do Google Drive.
+
+
+* [Dataset de treino](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=sharing) 
+* [Dataset de teste](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=sharing) 
 * [Stop words txt](https://drive.google.com/file/d/1Oo89KisZS5sAAr0Cpw_Q3erSwVnTRu3M/view?usp=share_link) 
 
 -----------------------------------
 
+<h3> Referências </h3>
