@@ -16,14 +16,15 @@ Já imaginou como seria legal aprender a criar uma IA? Seu desejo pode se tornar
 Vamos aprender todo o processo da construção de um modelo, <b>desde a coleta e processamento dos dados até a avaliação</b>. Veremos como processar os dados para que a máquina possa aprender seus padrões, treinar a partir dos padrões aprendidos e testar se ela aprendeu bem. Essa vai ser uma oportunidade única para obter insights valiosos e aprender muito! Além de ser muito divertido, a partir dessa introdução você conseguirá compreender o ciclo de criação de um modelo, assimilar referências e será capaz de se aventurar pelo mundo da IA desbravando novos conhecimentos desse vasto universo.<br><br>
 
 <b><u>Um mini desafio:</b></u> <i>se você tivesse que adivinhar se esse texto foi gerado por uma IA ou por um humano, qual dos dois você diria que escreveu o texto? </i>
-<img src= "https://user-images.githubusercontent.com/72058182/223455244-38151abb-8755-4049-8c8b-4ca65ee9c8b8.gif" height="30px" width="10%">
+<img src= "https://user-images.githubusercontent.com/72058182/226410971-6efac317-4562-4c27-a82c-6412827097b9.gif" height="20px" width="20px">
 
 
 Acalma o coração que logo logo vamos <b>discutir</b> sobre isso e <b>descobrir!</b> <br>
 Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
   
 [Weni XP 2023](https://doity.com.br/weni-xp)
- 
+
+
 </div>
 
 -----------------------------------
@@ -101,7 +102,7 @@ Abra a pasta 'notebook'.
 <h3> Arquivos utilizados </h3> <br>
 
 
-Os arquivos utilizados estão disponíveis nesse repositório na pasta `data` e também [nessa pasta](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=share_link) do Google Drive.
+Os arquivos utilizados estão disponíveis nesse repositório na pasta `data` e também [nesse link](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=share_link) do Google Drive. Você também pode clicar direto no link dos arquivos abaixo.
 
 
 * [Dataset de treino](https://drive.google.com/drive/folders/1pOWdu1PnPHcH4LAPZzfeT6jOvay3p749?usp=sharing) 
