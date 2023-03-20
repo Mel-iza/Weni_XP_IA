@@ -75,7 +75,7 @@ Para o hands-on vamos utilizar um notebook do Google Colab. <br>
 Caso, não dê certo, você pode seguir um dos passos abaixo: <br>
 
 
-<details> <summary> <b>Solução 1:</b> Abrindo colab direto pelo notebook  </summary> <br>
+<details> <summary> <b>Solução 1:</b> Abrindo notebook do Colab pela pasta do repositório </summary> <br>
 
 1. Assim que você entra no repositório, encontra essa estrutura de pastas bem na parte superior da página.
 Abra a pasta 'notebook'.
@@ -90,7 +90,7 @@ Abra a pasta 'notebook'.
 </details>
 
 
-<details> <summary> <b>Solução 2:</b> Abrindo arquivo direto pelo colab em upload  </summary> <br>
+<details> <summary> <b>Solução 2:</b> Abrindo notebook do Colab direto por upload de arquivo  </summary> <br>
 1. Abra o link do notebook do Colab no passo 1 descrito em instruções. <br>
 
 2. Clique na barra de tarefas do Colab na opção `Arquivo`, em seguida clique em `Fazer Download` e escolha a opção `Fazer download do .ipynb`
