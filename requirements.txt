@@ -1,8 +1,0 @@
-!pip install scikit-learn==1.2.1
-!pip install numpy==1.24.2
-!pip install scipy==1.2.1 
-!pip install pandas==1.5.3
-!pip install Unidecode==1.3.6
-!pip install nltk==3.8.1
-!pip install spacy==3.5.0
-!python -m spacy download pt_core_news_sm
