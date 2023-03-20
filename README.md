@@ -62,7 +62,7 @@ Até lá, se prepare para colocar a mão na massa e nos vemos em breve!
 
 Para o hands-on vamos utilizar um notebook do Google Colab. <br>
 
-1. [Clique aqui](https://colab.research.google.com/gist/Mel-iza/61c8a003129f19ac73243aa48e5237fc/weni_xp_hands-on_ia.ipynb) para abrir o notebook no Colab. <br> <i>Você será automaticamente redirecionado para a página.</i> <br>
+1. [Clique aqui]() para abrir o notebook no Colab. <br> <i>Você será automaticamente redirecionado para a página.</i> <br>
 
 2. Assim que abrir o notebook clique na barra de tarefas em `arquivo` e `salvar uma cópia no drive` para que você possa fazer alterações.
 
@@ -111,3 +111,7 @@ Os arquivos utilizados estão disponíveis nesse repositório na pasta `data` e 
 -----------------------------------
 
 <h3> Referências </h3>
+
+
+
+
